@@ -127,4 +127,21 @@
 
 ## Acknowledgments
 
-Built on the [ISIC 2019 Challenge](https://challenge.isic-archive.com/data/) dataset. Please cite the ISIC Archive and the underlying source datasets (HAM10000, BCN_20000, MSK) if you use this work or the dataset it is built on.
+Built on the [ISIC 2019 Challenge](https://challenge.isic-archive.com/data/) dataset, 
+licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+
+Please cite the ISIC Archive and the underlying source datasets 
+(HAM10000, BCN_20000, MSK) if you use this work or the dataset it is built on:
+
+> Tschandl P., Rosendahl C. & Kittler H. The HAM10000 dataset, a large collection 
+> of multi-source dermatoscopic images of common pigmented skin lesions. 
+> Sci. Data 5, 180161 (2018).
+>
+> Codella N. et al. Skin Lesion Analysis Toward Melanoma Detection: A Challenge 
+> at the 2017 ISBI, Hosted by ISIC. arXiv:1710.05006 (2017).
+>
+> Hernández-Pérez C. et al. BCN20000: Dermoscopic lesions in the wild. 
+> Scientific Data 11, 641 (2024).
+
+**Note:** This dataset is licensed for non-commercial use only. The trained model 
+in this repository inherits that restriction.
